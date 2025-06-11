@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/regguide-interactive-faq-38143-08b34e47/regguide_interactive_faq"
+}
